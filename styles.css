@@ -1,0 +1,52 @@
+/* styles.css */
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: pink;
+    padding: 1px;
+    text-align: center;
+  }
+  .seletor-do-elemento {
+    background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-business-resume-background-material-picture-image_999584.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute ;
+  }
+  h1 {
+    color: #333;
+    font-size: 36px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #666;
+  }
+  
+  /* Estilo para as seções */
+  section {
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
+  /* Estilo para links */
+  a {
+    color: #007bff;
+  }
